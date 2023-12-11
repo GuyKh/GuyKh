@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Guy</h1>
 <h3 align="center">Passionate backend developer, dumb manager of a smart home, loves to contribute to open-source projects, fixing stuff I need and hardware tinkering. Hiking, Guitaring, Drone-ing, Photographing and more.</h3>
 
-- 🔭 I’m currently regularly contributing to projects including (SmartCopy)[https://github.com/eljeffeg/SmartCopy],  (HomeAssistant IMS Component)[https://github.com/t0mer/ims-custom-component]
+- 🔭 I’m currently regularly contributing to projects including [SmartCopy](https://github.com/eljeffeg/SmartCopy),  [Home Assistant IMS Component](https://github.com/t0mer/ims-custom-component)
 
-- 🤝 I've previously contributed to popular projects including [HomeAssistant](https://github.com/home-assistant/core), [Bazarr](https://github.com/morpheus65535/bazarr), [Nexmo](https://github.com/Nexmo)
+- 🤝 I've previously contributed to popular projects including [Home Assistant](https://github.com/home-assistant/core), [Bazarr](https://github.com/morpheus65535/bazarr), [Nexmo](https://github.com/Nexmo)
 
 - 📊 I worked as a backend software developer at Orsus, Nice, Yahoo and Wix
 
