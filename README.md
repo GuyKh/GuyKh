@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Guy Khmelnitsky</h1>
-<h3 align="center">Passionate backend developer, dumb manager of a smart home, loves to donate to open-source, fixing stuff I need and hardware tinkering. Hiking, Guitaring, Drone-ing, Photographing and more.</h3>
+<h1 align="center">Hey 👋, I'm Guy</h1>
+<h3 align="center">Passionate backend developer, dumb manager of a smart home, loves to contribute to open-source projects, fixing stuff I need and hardware tinkering. Hiking, Guitaring, Drone-ing, Photographing and more.</h3>
 
 - 🔭 I’m currently regularly contributing to projects including (SmartCopy)[https://github.com/eljeffeg/SmartCopy],  (HomeAssistant IMS Component)[https://github.com/t0mer/ims-custom-component]
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/guykh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="guykh" height="30" width="40" /></a>
+<a href="https://twitter.com/guykhmel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernandezbap" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guykhmel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guykhmel" height="30" width="40" /></a>
 </p>
 
@@ -24,3 +25,4 @@
 
 [![GuyKh's GitHub | Stats](https://stats.quine.sh/GuyKh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GuyKh)
 [![GuyKh's Stack Overflow | Stats](https://stats.quine.sh/GuyKh/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GuyKh)
+
