@@ -7,7 +7,7 @@
 
 - 🤝 I've previously contributed to popular projects including [Home Assistant](https://github.com/home-assistant/core), [Bazarr](https://github.com/morpheus65535/bazarr), [Nexmo](https://github.com/Nexmo)
 
-- 📊 I worked as a backend software developer at Orsus, Nice, Yahoo and Wix
+- 📊 I worked as a backend software developer at Orsus, Nice, Qognify, Yahoo, Verizon, Wix, BigPanda
 
 - 💬 Ask me about **java, git, linux, smart home and coffee**
 
