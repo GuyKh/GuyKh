@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Guy</h1>
 <h3 align="center">Passionate backend developer, smart home (dumb) manager, loves to contribute to open-source projects, fixing stuff I need and tinkering hardware. Hiking, Guitaring, Drone-ing, Photographing and more.</h3>
 
-- 🛠️ I'm working and devloping various projects including [Home Assistant IEC Component](https://github.com/guykh/iec-custom-component), [py-iec-api](https://github.com/guykh/py-iec-api), [Home Assistant IMS Component](https://github.com/GuyKh/ims-custom-component), [10bis-slackbot](https://github.com/GuyKh/10bis.Slackbot)
-
+- 🛠️ I'm working and devloping various projects including [Home Assistant IEC Component](https://github.com/guykh/iec-custom-component), [py-iec-api](https://github.com/guykh/py-iec-api), [Home Assistant IMS Component](https://github.com/GuyKh/ims-custom-component)
+- 
 - 🔭 I’m currently regularly contributing to projects including [SmartCopy](https://github.com/eljeffeg/SmartCopy)
 
 - 🤝 I've previously contributed to popular projects including [Home Assistant](https://github.com/home-assistant/core), [Bazarr](https://github.com/morpheus65535/bazarr), [Nexmo](https://github.com/Nexmo)
